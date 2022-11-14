@@ -1,6 +1,0 @@
-# ninja log v5
-0	326	1668163645	CMakeFiles/native-lib.dir/native-lib.cpp.o	18f3f06923558ce5
-327	396	1668163645	/Users/asykur/Documents/Capstone1/core/build/intermediates/cxx/Debug/531v63h3/obj/arm64-v8a/libnative-lib.so	a0b0dc141615d404
-1	98	1668171587	/Users/asykur/Documents/Capstone1/core/build/intermediates/cxx/Debug/531v63h3/obj/arm64-v8a/libnative-lib.so	487e46be1271526f
-0	462	1668172229	CMakeFiles/native-lib.dir/native-lib.cpp.o	18f3f06923558ce5
-462	650	1668172229	/Users/asykur/Documents/Capstone1/core/build/intermediates/cxx/Debug/531v63h3/obj/arm64-v8a/libnative-lib.so	a0b0dc141615d404
