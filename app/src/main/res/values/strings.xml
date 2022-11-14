@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Capstone</string>
+
+    <string name="search_movie">Search Movie…</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="img_detail">imgDetail</string>
+    <string name="btn_favorite">btn_favorite</string>
+    <string name="overview">Overview</string>
+    <string name="iv_favorite">iv_favorite</string>
+    <string name="item_movie">item_movie</string>
+</resources>

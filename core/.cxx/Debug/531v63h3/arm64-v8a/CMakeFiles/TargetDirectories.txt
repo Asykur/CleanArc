@@ -1,0 +1,3 @@
+/Users/asykur/Documents/Capstone1/core/.cxx/Debug/531v63h3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/asykur/Documents/Capstone1/core/.cxx/Debug/531v63h3/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/asykur/Documents/Capstone1/core/.cxx/Debug/531v63h3/arm64-v8a/CMakeFiles/native-lib.dir

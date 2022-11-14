@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorite">Favorite</string>
+    <string name="nothing_here">Nothing here</string>
+    <string name="start_to_add_your_favorite_movie">Start to add your favorite movie</string>
+</resources>
